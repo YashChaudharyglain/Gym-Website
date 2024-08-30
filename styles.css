@@ -392,6 +392,37 @@ nav {
 .nv{
   height: 48px;
 }
+.footer__logo{
+  text-align: center;
+  margin-right: 290px;
+}
+.footer__grid{
+  margin: 0px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25%;
+}
+.logo{
+  width: 50px;
+}
+
+.spn2{
+  border: 5px solid yellow;
+}
+
+.last_text{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 110px;
+}
 
 
+#home1{
+  font-size: 30px;
+}
 
+.texttt{
+  font-size: 20px;
+}
